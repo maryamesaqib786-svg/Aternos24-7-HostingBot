@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TEAM--SMP.aternos.me",
-    "port": 46227,
+    "ip": "FreindSmp-urlI.aternos.me",
+    "port": 18721,
     "version": "",
     "try-creative": false
   },
